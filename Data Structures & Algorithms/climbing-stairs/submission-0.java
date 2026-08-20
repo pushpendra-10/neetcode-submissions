@@ -1,3 +1,4 @@
+// Memoization
 class Solution {
     public int stepCount(int n, int[] dp){
         if(dp[n] != -1) return dp[n];
