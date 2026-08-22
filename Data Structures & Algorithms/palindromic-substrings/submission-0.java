@@ -1,3 +1,4 @@
+// same as longest palindromic substring just count all palindromes
 class Solution {
     public int countSubstrings(String s) {
         int n = s.length();
